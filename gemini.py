@@ -61,3 +61,11 @@ print("-----------------------------------------------------------------------")
 text ="The Nine Tailed Fox  in a purple crystal ball in a tree"
 print(text_translation(text, "es").text)
 print("-----------------------------------------------------------------------")
+
+
+
+
+
+# temperature: Controls creativity (e.g., 0.7 for balanced, 1.0 for creative).
+# max_tokens: Limits the response length.
+# top_k: Limits the number of tokens considered at each step.
